@@ -1,0 +1,2 @@
+2026-08-13T09:30:04+00:00 WARNING Email "admin_payment_gateway_enabled" failed to send: Could not instantiate mail function. CONTEXT: {"email_type":"admin_payment_gateway_enabled","status":"failed","recipient":"admin","WC_Payment_Gateway_Stripe_UPM":null}
+2026-08-13T09:34:20+00:00 WARNING Email "admin_payment_gateway_enabled" failed to send: Could not instantiate mail function. CONTEXT: {"email_type":"admin_payment_gateway_enabled","status":"failed","recipient":"admin","WC_Payment_Gateway_Stripe_UPM":null}
