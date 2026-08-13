@@ -1,0 +1,2 @@
+2026-08-12T04:20:45+00:00 WARNING Email "customer_new_account" for user #2 failed to send: Could not instantiate mail function. CONTEXT: {"email_type":"customer_new_account","status":"failed","recipient":"rollinsroll99","user":2}
+2026-08-12T04:22:19+00:00 WARNING Email "customer_reset_password" for user #2 failed to send: Could not instantiate mail function. CONTEXT: {"email_type":"customer_reset_password","status":"failed","recipient":"rollinsroll99","user":2}
